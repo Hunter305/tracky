@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="164"
+   height="50"
+   viewBox="0 0 164 50"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <rect
+       x="15.697832"
+       y="6.7987611"
+       width="22.580894"
+       height="34.552695"
+       id="rect510" />
+    <rect
+       x="67.898273"
+       y="8.3349256"
+       width="91.986533"
+       height="33.644948"
+       id="rect349" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.9939024"
+     inkscape:cx="19.264684"
+     inkscape:cy="25.206713"
+     inkscape:window-width="1499"
+     inkscape:window-height="750"
+     inkscape:window-x="50"
+     inkscape:window-y="116"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M26.0039 9.5625H31.8633V29.25C31.8633 31.0599 31.4596 32.6615 30.6523 34.0547C29.8581 35.4349 28.7318 36.5026 27.2734 37.2578C25.8151 38.013 24.168 38.3906 22.332 38.3906C19.3242 38.3906 16.9805 37.6289 15.3008 36.1055C13.6211 34.569 12.7812 32.401 12.7812 29.6016H18.6797C18.6797 30.9948 18.9727 32.0234 19.5586 32.6875C20.1445 33.3516 21.069 33.6836 22.332 33.6836C23.4518 33.6836 24.3438 33.2995 25.0078 32.5312C25.6719 31.763 26.0039 30.6693 26.0039 29.25V9.5625Z"
+     fill="white"
+     id="path6" />
+  <text
+     xml:space="preserve"
+     id="text347"
+     style="fill:#fce38f;-inkscape-font-specification:'C059, Bold';font-family:C059;font-size:26.66670036px;font-weight:bold;white-space:pre;shape-inside:url(#rect349)" />
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:26.6667px;font-family:C059;-inkscape-font-specification:'C059, Bold';fill:#fce38f;fill-opacity:1"
+     x="59.895393"
+     y="33.692009"
+     id="text355"><tspan
+       sodipodi:role="line"
+       id="tspan353"
+       x="59.895393"
+       y="33.692009">Tracky</tspan></text>
+  <rect
+     style="fill:#fce38f;fill-opacity:1"
+     id="rect459"
+     width="51.792088"
+     height="44.543278"
+     x="2.1580231"
+     y="1.2251083"
+     transform="rotate(0.0733833)"
+     ry="3.4664843" />
+  <text
+     xml:space="preserve"
+     id="text508"
+     style="fill:#fce38f;-inkscape-font-specification:'C059, Bold';font-family:C059;font-size:26.66670036px;font-weight:bold;white-space:pre;shape-inside:url(#rect510)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.2867px;font-family:C059;-inkscape-font-specification:'C059, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:2.14827"
+     x="11.982111"
+     y="43.195709"
+     id="text516"
+     transform="scale(1.0877607,0.91931984)"><tspan
+       sodipodi:role="line"
+       id="tspan514"
+       x="11.982111"
+       y="43.195709"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.2867px;font-family:C059;-inkscape-font-specification:'C059, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.14827;fill:#000000">t</tspan></text>
+</svg>
